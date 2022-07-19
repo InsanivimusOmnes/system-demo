@@ -1,0 +1,18 @@
+# Do NOT update manually; changes here will be overwritten by Copier
+_commit: v1.7.0-16-ga6f1b32
+_src_path: https://github.com/cetmix/cetmix-addons-repo-template.git
+ci: GitHub
+dependency_installation_mode: OCA
+generate_requirements_txt: true
+include_wkhtmltopdf: true
+odoo_version: 14.0
+org_name: InsanivimusOmnes
+org_slug: InsanivimusOmnes
+rebel_module_groups: []
+repo_description: final test
+repo_name: test
+repo_slug: cetmix
+repo_website: https://cetmix.com
+travis_apt_packages: []
+travis_apt_sources: []
+
